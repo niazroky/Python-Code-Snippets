@@ -9,7 +9,8 @@ These code snippets cover various topics and concepts in Python programming, ran
 
 ## Python Course Playlist
 
-If you find these code snippets helpful, you may also be interested in my Python Course Playlist on YouTube. You can access the playlist [here](https://youtube.com/playlist?list=PLudlwq5I_xnfwHtTZB2c-aaTThE7iwOhS&si=u-gQyEqKhUBvtnay). The playlist contains comprehensive video tutorials covering Python programming concepts and topics.
+If you find these code snippets helpful, you may also be interested in my Python Course Playlist on YouTube. 
+You can access the playlist [here](https://youtube.com/playlist?list=PLudlwq5I_xnfwHtTZB2c-aaTThE7iwOhS&si=u-gQyEqKhUBvtnay). The playlist contains comprehensive video tutorials covering Python programming concepts and topics.
 
 ## Contribution
 
